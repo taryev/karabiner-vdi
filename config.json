@@ -1067,6 +1067,21 @@
                 }
             ],
             "type": "basic"
+        },
+        {
+            "conditions": [
+                {
+                    "bundle_identifiers": [
+                        "^com\\.vmware\\.horizon$"
+                    ],
+                    "type": "frontmost_application_if"
+                }
+            ],
+            "from": {
+                "key_code": "backslash"
+            },
+            "to": [{ "key_code": "quote" }],
+            "type": "basic"
         }
     ]
 }
