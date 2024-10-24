@@ -9,6 +9,9 @@ Le remapping n'est appliqué uniquement lors de la saisie dans VMware Horizon Cl
 | -------- | ------- |
 | ![Clavier physique](https://github.com/user-attachments/assets/0baebe3c-fa86-48c1-a41b-df366bd6fbb4)  | ![Clavier virtuel](https://github.com/user-attachments/assets/f9852d78-91ac-4cde-aa8a-38c03a3a3657)    |
 
+Configuration recommandé du clavier dans les paramètres de VMware Horizon Client
+
+<img src="https://github.com/user-attachments/assets/bd8bf813-9f28-4523-a64b-75bf6067596a" width=360 alt="Configuration Horizon Client"/>
 
 > [!IMPORTANT]  
 > Configuration fournie telle-quelle
